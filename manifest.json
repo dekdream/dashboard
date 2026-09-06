@@ -1,6 +1,6 @@
 {
-    "name": "branch_insight",
-    "short_name": "branch_insight",
+    "name": "hr_management_supabase",
+    "short_name": "hr_management_supabase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
