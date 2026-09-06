@@ -1,12 +1,12 @@
 {
-    "name": "hr_management_supabase",
-    "short_name": "hr_management_supabase",
+    "name": "Twenty Two | Branch Insight",
+    "short_name": "Twenty Two",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#fff8fb",
+    "theme_color": "#bd3e6b",
+    "description": "ระบบจัดการรายรับรายจ่ายและวิเคราะห์ผลงานสาขา",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
